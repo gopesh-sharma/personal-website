@@ -4,7 +4,7 @@ layout: page
 permalink: /photography/
 ---
 
-I am a budding photographer and I have a Canon EOS 200D 24.2MP DSLR and EF-S 18-55 mm Lens. I use Darktable OpenSource software for editing. So
+I have a Canon EOS 200D 24.2MP DSLR with EF-S 18-55 mm Lens. I use Darktable OpenSource software for editing.
 
 <hr>
 ![Duck]({{ '/images/photography/duck.jpg' | absolute_url }}){: .align-center}
@@ -15,3 +15,5 @@ I am a budding photographer and I have a Canon EOS 200D 24.2MP DSLR and EF-S 18-
 <hr>
 ![A Temple]({{ '/images/photography/temple.jpg' | absolute_url }}){: .align-center}
 <hr>
+
+More at : [500px](https://500px.com/placesinindia)
