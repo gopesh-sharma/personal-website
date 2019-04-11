@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: 'Hello World'
 categories: blog
 tags: ['life']
-excerpt: 'It's always important for a developer to document any new things he learns while coding.'
+excerpt: 'It is always important for a developer to document any new things he learns while coding.'
 date: April 11, 2019
 author: self
 ---
