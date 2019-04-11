@@ -20,8 +20,6 @@ Whenever I get some time, I try to attend conferences and meetups in Bangalore a
 
 This blog runs on Jekyll, using so-simple-theme and served over GitHub Pages. The website is open source if you want to have a look, https://github.com/gopesh-sharma/personal-website. Trust me, nothing is easier than building your sites using Jeykyll, you can start in like 30 minutes. 
 
-I am not perfect, so if you found any issues in this blog, please let me know.
-
 Thanks for reading.
 
 
