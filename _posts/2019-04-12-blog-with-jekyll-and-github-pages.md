@@ -21,14 +21,14 @@ If you also want to start your blog using Jeykll, the steps are as follows:
 5. Since I am using Custom Domain, I have added www.gopeshsharma.dev under Custom Domain and also added the below Custom resource records in Google Domains.
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ '/images/blog/domain-gh-pages.png' | absolute_url }}" alt="Google Domain Custom Resource Records">
+  <img src="{{ '/images/blog/domain-gh-pages.PNG' | absolute_url }}" alt="Google Domain Custom Resource Records">
   <figcaption>Domain Custom Resource Records</figcaption>
 </figure>   
 
 The Full Configuration of GitHub Pages look like :
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ '/images/blog/github-settings.png' | absolute_url }}" alt="GitHub Pages Configuration">
+  <img src="{{ '/images/blog/github-settings.PNG' | absolute_url }}" alt="GitHub Pages Configuration">
   <figcaption>GitHub Pages Configuration</figcaption>
 </figure>   
 
