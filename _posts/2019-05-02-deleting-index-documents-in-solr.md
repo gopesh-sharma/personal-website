@@ -41,10 +41,10 @@ The correct way of using deletedPkQuery is that :
 
 	> The primary key for the entity. It is optional, and required only when using delta-imports. It has no relation to the uniqueKey defined in schema.xml but they can both be the same.
 
-But for deletedPkQuery to work uniqueKey and pk should be same as shown below.
+    But for deletedPkQuery to work uniqueKey and pk should be same as shown below.
 	
 	```
-	<!-- field to use to determine and enforce document uniqueness. -->
+	// field to use to determine and enforce document uniqueness.
 	<uniqueKey>id</uniqueKey>
 	``` 
 
