@@ -143,7 +143,7 @@ So the bot will reply with the answer if the guess value is greater than 0.6 oth
 
 The problem with the bot is that the reply is not natural as it will always give the same answer to all the people who asks the same question. Finding ways to improve the training data, will post once another version is ready.
 
-Check out the first version: https://github.com/gopesh-sharma/LetsChat/releases/tag/v1.0
+Check out the first version: https://github.com/gopesh-sharma/LetsChat
 
 Thanks for reading.
 
