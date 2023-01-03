@@ -4,7 +4,7 @@ title: 'I asked Chat GPT to build a Budgeting App'
 categories: blog
 tags: ['Chat GPT', 'Budgeting App']
 excerpt: 'Chat GPT is an AI-based chatbot that can answer any question, where it understands any topics and can do tasks like creating a Budgeting App (which I have asked ChatGPT to create) as well as writing blog posts, writing unit tests and what not.'
-date: December 29, 2022
+date: January 3, 2023
 author: self
 ---
 
