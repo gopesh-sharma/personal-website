@@ -8,7 +8,7 @@ date: January 6, 2023
 author: self
 ---
 
-![image-center]({{ '/images/docker.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/blog/docker.jpg' | absolute_url }}){: .align-center}
 
 There are a lot of companies which still use legacy technologies and whenever a new person joins the company he has to set up everything in his system so that he can contribute. I am not only talking about the codebase, it's all about the softwares, environments needed to run the codebase. If the steps for configuring is not documented well (after all we are humans) then it might take days for him to get started. This is where Docker can help the companies which are using newer or older technologies so that they create a package of any application to be used in any system.
 
